@@ -1,0 +1,296 @@
+[
+  {
+    "state": "Alabama",
+    "cases": 16,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Alaska",
+    "cases": 1,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Arizona",
+    "cases": 50,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Arkansas",
+    "cases": 4,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "California",
+    "cases": 799,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Colorado",
+    "cases": 53,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Connecticut",
+    "cases": 33,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Delaware",
+    "cases": 4,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "District of Columbia",
+    "cases": 218,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Florida",
+    "cases": 373,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Georgia",
+    "cases": 351,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Hawaii",
+    "cases": 10,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Idaho",
+    "cases": 4,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Illinois",
+    "cases": 419,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Indiana",
+    "cases": 49,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Iowa",
+    "cases": 10,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Kansas",
+    "cases": 1,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Kentucky",
+    "cases": 8,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Louisiana",
+    "cases": 38,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Maine",
+    "cases": 1,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Maryland",
+    "cases": 117,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Massachusetts",
+    "cases": 116,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Michigan",
+    "cases": 28,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Minnesota",
+    "cases": 33,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Mississippi",
+    "cases": 3,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Missouri",
+    "cases": 9,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Nebraska",
+    "cases": 10,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Nevada",
+    "cases": 14,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "New Hampshire",
+    "cases": 9,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "New Jersey",
+    "cases": 118,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "New Mexico",
+    "cases": 7,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "New York",
+    "cases": 1345,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "North Carolina",
+    "cases": 53,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "North Dakota",
+    "cases": 1,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Ohio",
+    "cases": 23,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Oklahoma",
+    "cases": 9,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Oregon",
+    "cases": 58,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Pennsylvania",
+    "cases": 125,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Puerto Rico",
+    "cases": 14,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Rhode Island",
+    "cases": 19,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "South Carolina",
+    "cases": 16,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "South Dakota",
+    "cases": 1,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Tennessee",
+    "cases": 26,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Texas",
+    "cases": 351,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Utah",
+    "cases": 27,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Virginia",
+    "cases": 76,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Washington",
+    "cases": 120,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "West Virginia",
+    "cases": 3,
+    "range": "1 to 2",
+    "date": "20220729"
+  },
+  {
+    "state": "Wisconsin",
+    "cases": 13,
+    "range": "1 to 2",
+    "date": "20220729"
+  }
+]
