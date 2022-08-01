@@ -13,10 +13,10 @@ type MPXRes struct {
 }
 
 type MPXRecord struct {
-	State string `json:"state"`
-	Cases int    `json:"cases"`
-	Range string `json:"range"`
-	Date  string `json:"date"`
+	State string      `json:"state"`
+	Cases json.Number `json:"cases"`
+	Range string      `json:"range"`
+	Date  string      `json:"date"`
 }
 
 func main() {
