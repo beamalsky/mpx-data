@@ -1,10 +1,9 @@
 # Adapted from https://sung.codes/blog/2019/12/25/building-gatsby-with-git-hub-actions-and-deploying-to-netlify/
 name: Remake MPX data
 
-on: push
-  # switch to hourly once this is working
-  # schedule:
-  #   - cron: '20 * * * *'
+on:
+  schedule:
+    - cron: '20 * * * *'
 
 jobs:
   build:
